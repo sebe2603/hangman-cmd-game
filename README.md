@@ -1,6 +1,6 @@
 # Hangman Game (C++)
 
-This is a simple implementation of the classic **Hangman** game in C++.
+This is a simple implementation of the classic **Hangman** game in C++.  
 🎓 This project was created as part of a university course.
 
 ## ⚙️ Requirements
