@@ -12,7 +12,7 @@ This is a simple implementation of the classic **Hangman** game in C++.
 
 hangman-cmd-game/  
 ├── Hangman-Console-Game/  
-│ └── Hangman-Console-Game.cpp # Complete game
+│ └── Hangman-Console-Game.cpp # Complete game  
 └── documentation.pdf # Documentation of the project in polish
 
 ## 🚀 How to Run
