@@ -19,7 +19,7 @@ hangman-cmd-game/
 
 1. Compile the program:
    ```bash
-   g++ -o hangman hangman.cpp
+   g++ -o hangman Hangman-Console-Game.cpp
 
 2. Make sure you have a `words` file at `C:\words` with appropriate content.
 
